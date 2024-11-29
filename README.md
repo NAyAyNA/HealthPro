@@ -35,7 +35,7 @@ The app should be available at http://localhost:3000.
 
 ## Technologies Used
 
-* Next.js - React framework with server-side rendering
-* React - Component-based UI library
-* CSS Modules - Modular CSS for styling components
-* JSONPlaceholder API - Mock API for posts, comments, and user data
+* React.js
+* JavaScript
+* CSS
+* HTML
